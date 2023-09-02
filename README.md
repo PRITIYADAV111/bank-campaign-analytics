@@ -21,31 +21,3 @@ The objectives of this project are as follows:
 
 4. **Model Evaluation:** Evaluate the model's performance using appropriate metrics.
 
-## Code Overview
-
-Here's an overview of the key steps in the project code:
-
-```python
-# Import necessary libraries
-import pandas as pd
-import numpy as np
-# ... (Other library imports)
-
-# Load the dataset
-bank = pd.read_csv("bank-additional-full.csv", sep=';')
-
-# Data preprocessing, EDA, and modeling steps
-# ...
-
-# Split the data into training and testing sets
-# ...
-
-# Train a logistic regression model
-# ...
-
-# Evaluate the model
-# ...
-
-# Display model accuracy
-# ...
-
